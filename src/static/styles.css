@@ -136,6 +136,25 @@ button:hover {
   display: none;
 }
 
+.participant-info {
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(53, 133, 95, 0.1);
+  border: 1px solid #1a237e; /* Added border */
+}
+
+.participant-info h2 {
+  margin-bottom: 15px;
+  color: #1a237e;
+}
+
+.participant-info p {
+  margin-bottom: 10px;
+  color: #333333;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
